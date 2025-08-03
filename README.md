@@ -4,4 +4,5 @@
 <li>Clipboard link input</li>
 <li>Format specification</li>
 <li>Save path specification using GUI</li>
-<li>Automatic update for yt-dlp to counter errors</li>
+<li>Automatically updating yt-dlp to counter errors</li>
+
