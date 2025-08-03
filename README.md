@@ -1,5 +1,5 @@
 <h1>Simplistic .bat automation for yt-dlp</h1>
-<p>This is a very simplistic script written with efficiency and convenience in mind. It allows users to download YouTube videos easily, using the system clipboard as the video link input. It is essential, however, that you first install yt-dlp and add it to the system PATH to use this script.</p>
+<p>This is a very simplistic script written with efficiency and convenience in mind. It allows users to download YouTube videos easily, using the system clipboard as the video link input. It is essential, however, that you first install yt-dlp and add it to the system PATH to use this script. Feel free to modify the script to suit your needs better.</p>
 <h2>Features include:</h2>
 <li>Clipboard link input</li>
 <li>Format specification</li>
@@ -8,5 +8,6 @@
 <h2>About yt-dlp</h2>
 <p>To learn more about yt-dlp by coletdjnz or to download it, visit this GitHub page:</p>
 <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp GitHub</a>
+
 
 
