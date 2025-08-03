@@ -5,4 +5,6 @@
 <li>Format specification</li>
 <li>Save path specification using GUI</li>
 <li>Automatically updating yt-dlp to counter errors</li>
-
+<h2>yt-dlp download</h2>
+<p>To learn more about yt-dlp by coletdjnz or to download it, visit this GitHub page:</p>
+<a href="https://github.com/yt-dlp/yt-dlp">yt-dlp GitHub</a>
